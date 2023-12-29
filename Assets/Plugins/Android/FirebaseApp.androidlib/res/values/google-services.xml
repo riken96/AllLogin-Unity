@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">735481216297</string>
+  <string name="google_storage_bucket" translatable="false">logindemo-db45c.appspot.com</string>
+  <string name="project_id" translatable="false">logindemo-db45c</string>
+  <string name="google_api_key" translatable="false">AIzaSyCfXD4y5PWaHR4ee6fCtW1ABfmt69MedfY</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCfXD4y5PWaHR4ee6fCtW1ABfmt69MedfY</string>
+  <string name="google_app_id" translatable="false">1:735481216297:android:52f0901c74579118610b38</string>
+  <string name="default_android_client_id" translatable="false">735481216297-jftrmdtrmor8aaetccclat469hsk45i0.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">735481216297-himjh4l62hmfjb9gapntrig6k2haojha.apps.googleusercontent.com</string>
+</resources>
